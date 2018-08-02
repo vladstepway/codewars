@@ -1,5 +1,3 @@
-import javax.swing.text.MaskFormatter;
-
 public class PhoneNumber {
 
     public static String createPhoneNumber(int[] numbers) {
